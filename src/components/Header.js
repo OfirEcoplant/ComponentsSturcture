@@ -1,5 +1,6 @@
 import React from 'react';
 import Selection from "./Selection";
+import "../style.css";
 
 function Header() {
     const filterBy = ["All Jackets", "2016", "jacket", "Jackets", "layers", "Obermeyer", "Roxy", "womens"];

@@ -1,6 +1,7 @@
 import React from 'react';
 import Product from "./Product";
 import data from "../ProductsList.json";
+import "../style.css";
 
 function Products() {
     return (

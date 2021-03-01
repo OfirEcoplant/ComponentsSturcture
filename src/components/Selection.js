@@ -1,5 +1,6 @@
 import React from 'react';
 import SelectionOption from "./SelectionOption";
+import "../style.css";
 
 function Selection({title, selectionOptions}) {
     return (
